@@ -1,44 +1,38 @@
-# [project name]
+# memory-for-error-alpha
 
 ## Project Goal
-:point_right: Replace this text with a pithy description of the goal of the data analysis project.
+This project seeks to determine whether socially anxious individuals show a memory-bias for errors, and to what extent this bias is driven by error monitoring.
 
 
 ## Background & Design
-:point_right: Replace this text with a slightly longer (but still only max 250 words) description of the project background and its design. 
+Social anxiety (SA), as one of the most pervasive and long-lasting anxiety disorders [1](https://pubmed.ncbi.nlm.nih.gov/15939837/), is associated with an abnormal enhancement of error monitoring [2](https://pubmed.ncbi.nlm.nih.gov/18271855/). Current theoretical models suggest that enhanced error monitoring is a downstream symptom of SA [3](https://www.frontiersin.org/articles/10.3389/fnhum.2013.00466/full), [4](https://www.frontiersin.org/articles/10.3389/fnhum.2013.00636/full). However, I suggest a novel reconceptualization of the role of error monitoring in SA: error monitoring plays a causal role in the maintenance of SA by orienting an individual's attention towards their errors. This serves to enhance the encoding of and subsequent memory for mistakes, especially within social settings, which, in turn, causes these individuals to exhibit a memory bias for errors. The memory bias ultimately leads to lower self-evaluations of one’s abilities in social settings. As this cascade of neurocognitive processes repeats across social situations over time, SA is maintained/worsened. To test this hypothesis, I conduct ERP and time-frequency analyses on data collected under `memory-for-error-dataset`. I aim to determine whether socially anxious individuals exhibit a memory-bias for errors, whether this bias is more prevalent in social settings, and to what degree it is driven by error monitoring.
+
+
 
 
 ## Roadmap
-:point_right: Insert graphic of planned project releases. [This site](https://app.diagrams.net/) allows you to build a graphic that is connected to GitHub, so that changes you make are treated as GitHub commits.
+Release 1: anticipated Q3 2022
 
 
 ## Contents
-:point_right: This section should introduce the content that is published on `main`. Example:
-
-
-#### 2021-07-01 SPR Poster
-This is a description of the poster. There is a matching folder in the repo.
-
-:point_right: When you first set up this readme file, you might replace everything under "Contents" here with something like "Watch for our first release!"
+Watch for our first release!
 
 
 ## Work in Development
 This `main` branch contains completed releases for this project. For all work-in-progress, please switch over to the `dev` branches.
 
-:point_right: Keep the "Work in Development" text above as the default NDCLab "blurb" to help visitors navigate the repo. But delete this note before publishing the readme file.
+
 
 
 ## Contributors
 | Name | Role |
 | ---  | ---  |
-| insert team member | add team member's role |
-| insert team member | add team member's role |
-| insert team member | add team member's role |
+| Kianoosh Hosseini | Project lead |
+| George Buzzell | guidance |
 
-Learn more about us [here](www.ndclab.com/people).
+Learn more about us [here](https://www.ndclab.com/people).
+
 
 
 ## Contributing
 If you are interested in contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-:point_right: Keep the "Contributing" text above as the default NDCLab "blurb" to help visitors navigate the repo. But delete this note before publishing the readme file.
